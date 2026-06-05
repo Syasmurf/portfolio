@@ -31,50 +31,73 @@ A modern, professional machine learning-themed portfolio website showcasing skil
 7. **Certifications** - Certificates and achievements
 8. **Contact** - Contact information and reference
 
-## 🚀 Technologies Used
+# Nurul Syamimi Kamaruddin
 
-- HTML5
-- CSS3 (Custom Properties, Flexbox, Grid, Animations)
-- Vanilla JavaScript (ES6+)
-- Font Awesome Icons
-- Google Fonts
+Tumpat, Kelantan | +60 147937262 | nrlsyamimikamaruddin@gmail.com
 
-## 🎯 Optimization Features
+GitHub: https://github.com/Syasmurf/portfolio
 
-- **Performance**: Lazy loading for images
-- **Accessibility**: ARIA labels, focus states, keyboard navigation
-- **SEO**: Semantic HTML structure
-- **Cross-browser**: Compatible with modern browsers
-- **Smooth Animations**: CSS3 transitions and keyframes
-- **Reduced Motion**: Respects user preferences
+## Professional Summary
 
-## 📱 Responsive Breakpoints
+Final-year Bachelor of Computer Science (Software Engineering) student with a strong foundation in software development and system design. Skilled in problem-solving, teamwork and communication with a proactive approach to learning and adapting in dynamic environments. Passionate about developing innovative and practical software solutions. Seeking an internship from 3 August 2026 to 15 January 2027.
 
-- Desktop: > 1024px
-- Tablet: 768px - 1024px
-- Mobile: < 768px
+## Education
 
-## 🎨 Color Palette
+- **Universiti Malaysia Terengganu** — B.Sc. Computer Science (Software Engineering) (Oct 2023 - Present)
+	- Current CGPA: 3.18
+	- Final Year Project: *i-Leaf: Intelligent Leaf Colour Chart System*
+- **Kelantan Matriculation College** — Sijil Matrikulasi KPM (Jul 2021 - May 2023)
+	- Taken: Computer Science | CGPA: 3.42 | MUET Band 4
+- **Maahad Muhammadi Pasir Pekan** — SPM (2016 - 2021)
+	- Achieved: 4A, 3B
 
-```css
---neon-blue: #00f5ff (Primary)
---neon-purple: #a855f7 (Secondary)
---neon-pink: #ec4899 (Accent)
---dark-bg: #0a0e27 (Background)
---darker-bg: #050816 (Deeper Background)
-```
+## Professional Experience
 
-## 📞 Contact
+- **Canteen Assistant (Part-Time)**, SK Pengkalan Berangan, Marang, Terengganu (2023)
+	- Assisted in daily food preparation and service, maintained hygiene standards, handled cash transactions, and supported inventory and restocking.
 
-- **Email**: nrlsyamimikamaruddin@gmail.com
-- **Phone**: +60 147937262
-- **GitHub**: [github.com/Syasmurf](https://github.com/Syasmurf)
-- **LinkedIn**: [Nurul Syamimi Kamaruddin](https://www.linkedin.com/in/nurul-syamimi-kamaruddin-045943390)
+## Selected Projects
 
-## 📄 License
+- *i-Leaf*: Intelligent Leaf Colour Chart System (Final Year Project)
+- ETS: Expense Tracker System
+- Cookify: Smart Recipe Finder
+- Food Recommendation System
 
-© 2026 Syamimi Kamaruddin. All rights reserved.
+## Technical Skills
 
----
+- Programming: Java, HTML, CSS, Bootstrap
+- Backend: Java, JSP/Servlets, Firebase
+- AI/ML: TensorFlow, OpenCV
+- Database: MySQL, phpMyAdmin
+- IoT: MicroPython, Raspberry Pi Pico, ThingSpeak, Blynk
+- Tools: Flutter, Android Studio, Visual Studio Code, NetBeans, XAMPP, Git/GitHub
+- Concepts: OOP, SDLC, Software Design, Testing & Debugging
 
-**Built with passion and dedication** 🚀
+## Extracurricular & Leadership
+
+- Head Editor — Media Cakna Kolej Kediaman (MCAKK), UMT (2025)
+- President — Skim Pinjaman Buku Teks (SPBT) (2020)
+- Participant — Outbound Mobility Program, Abbottabad University of Science and Technology (2026)
+
+## Certifications
+
+- Cisco’s Introduction to Networks
+- IoT and Digital Transformation
+- IEEE SMC Distinguished Lecture Program
+- Editing Like A Pro
+
+## Languages
+
+- Bahasa Melayu (Native)
+- English (Proficient)
+- Arabic & Thai (Basic)
+
+## Availability
+
+Available for internship from 3 August 2026 to 15 January 2027.
+
+## Reference
+
+Professor Ts. Dr. Noor Maizura Binti Mohamad Noor — Pro Vice Chancellor, Faculty of Computer Science & Mathematics, Universiti Malaysia Terengganu
+
+Contact: maizura@umt.edu.my | +60 17-838 2311
