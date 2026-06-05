@@ -82,7 +82,6 @@ Final-year Bachelor of Computer Science (Software Engineering) student with a st
 ## Certifications
 
 - Cisco’s Introduction to Networks
-- IoT and Digital Transformation
 - IEEE SMC Distinguished Lecture Program
 - Editing Like A Pro
 
